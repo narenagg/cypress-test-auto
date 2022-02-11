@@ -1,0 +1,24 @@
+{
+  "currency": {
+    "BTC": "btc",
+    "BCH": "bch",
+    "XRP": "xrp"
+  },
+  "beneficiary": {
+    "firstName": "ABCDE",
+    "lastName": "EFGHI",
+    "secondLastName": "JKLI",
+    "dateOfBirth": {
+      "day": "1",
+      "month": "2",
+      "year": "1993"
+    },
+    "kinship": "Relative",
+    "benefit": "30"
+  },
+  "currencyX": {
+    "ETH": "eth",
+    "DAI": "dai",
+    "MANA": "mana"
+  }
+}

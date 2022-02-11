@@ -1,0 +1,12 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 30000,
+  "reporter": "mochawesome",
+
+  "env": {
+    "domain_url": "http://stage.bitso.com"
+  },
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}

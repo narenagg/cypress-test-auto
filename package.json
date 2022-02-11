@@ -1,0 +1,17 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "Automation in Cypress for QA Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naren",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.4.1",
+    "mocha": "^9.1.3",
+    "mochawesome": "^7.0.1"
+  }
+}
